@@ -2,14 +2,17 @@
 
 ## How To Install
 
-`` 1. git clone https://github.com/dwisyafriadi2/blockless.git
+	`` 1. git clone https://github.com/dwisyafriadi2/blockless.git
+	``
 `` 2. cd blockless
+``
 `` 3. docker compose up -docker
+``
 
 ## How To Check
 
 `` 1. docker compose logs -f
-
+``
 ## Source
 [Documentaion](https://docs.bless.network/#/developer-tools/cli/)
 

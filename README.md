@@ -2,11 +2,11 @@
 
 ## How To Install
 
-	`` 1. git clone https://github.com/dwisyafriadi2/blockless.git
-	``
-`` 2. cd blockless
-``
-`` 3. docker compose up -docker
+`` 1. git clone https://github.com/dwisyafriadi2/blockless.git
+
+ 2. cd blockless
+
+ 3. docker compose up -docker
 ``
 
 ## How To Check
